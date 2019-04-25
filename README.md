@@ -1,2 +1,1 @@
-# image-classification
-#image classification #support vector machine
+# image classification
