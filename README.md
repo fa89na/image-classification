@@ -1,1 +1,1 @@
-# image classification
+# Handwritten Digit Classification
